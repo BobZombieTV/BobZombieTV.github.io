@@ -64,7 +64,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishEditFolder": false
+    "publishEditFolder": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
