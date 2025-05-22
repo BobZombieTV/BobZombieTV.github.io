@@ -3527,41 +3527,6 @@ a {
 .cid-uHr4g2P36B .mbr-section-title {
   color: #000000;
 }
-.cid-uHlSaJo5h6 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-uHlSaJo5h6 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uHlSaJo5h6 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uHlSaJo5h6 .item-wrapper {
-  display: flex;
-  margin-bottom: 2rem;
-  border-radius: 0 !important;
-}
-@media (max-width: 767px) {
-  .cid-uHlSaJo5h6 .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uHlSaJo5h6 .mbr-iconfont {
-  font-size: 3rem;
-  color: #9fe870;
-  padding-right: 2rem;
-}
-.cid-uHlSaJo5h6 .content-head {
-  max-width: 800px;
-}
 .cid-uHqEYlmGdo {
   padding-top: 3rem;
   padding-bottom: 3rem;
